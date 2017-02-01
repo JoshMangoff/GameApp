@@ -1,0 +1,25 @@
+{
+  "name": "gameapp",
+  "version": "1.0.0",
+  "description": "TypeScript demo game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshMangoff/GameApp.git"
+  },
+  "author": "Josh Mangoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshMangoff/GameApp/issues"
+  },
+  "homepage": "https://github.com/JoshMangoff/GameApp#readme",
+  "devDependencies": {
+    "@types/easeljs": "^0.8.35",
+    "@types/preloadjs": "^0.6.32",
+    "@types/soundjs": "^0.6.27",
+    "@types/tweenjs": "^0.6.27"
+  }
+}
